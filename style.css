@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(31, 56, 197, 0.479) ;
+}
+table{
+    margin-left:40% ;
+    margin-top: 100px ;
+    width: 500px ;
+
+}
+thead {
+    text-align: center;
+    background-color:rgb(175, 125, 31) ;
+    font-size: 25px;
+}
+tr{
+    height:50px ;
+    font-family: arial;
+}
+tbody{
+    font-size:17px ;
+    color: rgb(232, 232, 235) ;
+}
+tbody tr:nth-child(odd){
+    background-color:rgb(129, 21, 17) ;
+}

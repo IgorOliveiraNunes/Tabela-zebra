@@ -2,7 +2,7 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href="> Tabela zebra</a>
+o Homepage:  <a href="https://igoroliveiranunes.github.io/Tabela-zebra/"> Tabela zebra</a>
 
 ![tabela zebra ilustr](https://user-images.githubusercontent.com/93622964/179399335-cd6573ab-5aee-4489-932a-64a8e12ec978.png)
 

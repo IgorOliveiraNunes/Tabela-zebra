@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(31, 56, 197, 0.479) ;
+    background-color: rgba(2, 7, 34, 0.89) ;
 }
 table{
     margin-left:40% ;
@@ -9,7 +9,7 @@ table{
 }
 thead {
     text-align: center;
-    background-color:rgb(175, 125, 31) ;
+    background-color:rgb(14, 175, 187) ;
     font-size: 25px;
 }
 tr{
@@ -17,9 +17,9 @@ tr{
     font-family: arial;
 }
 tbody{
-    font-size:17px ;
-    color: rgb(232, 232, 235) ;
+    font-size:25px ;
+    color: rgb(14, 209, 118) ;
 }
 tbody tr:nth-child(odd){
-    background-color:rgb(129, 21, 17) ;
+    background-color:rgb(18, 88, 97) ;
 }

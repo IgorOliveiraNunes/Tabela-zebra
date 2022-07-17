@@ -7,7 +7,8 @@ o Homepage:  <a href=""> Tabela zebra</a>
 !img
 
 # Sobre
-<h3>O Projeto de cadastro de usuário,<br>utilizando Html e Css.</h3>
+<h3>O Projeto de tabela,<br>utilizando Html e Css.</h3>
+<h3>Tabela zebra usando nth-child para fazer intercalação de cor automática</h3>
 <h3>O Exercício feito com proposta do curso 
 <a href="https://b7web.com.br">b7web</a>.</h3>
 <p>O</p>

@@ -2,9 +2,10 @@
 <a href="#sobre">Sobre</a> o
 <a href="#sobre">Tecnologias</a> o
 <br><br>
-o Homepage:  <a href=""> Tabela zebra</a>
+o Homepage:  <a href="https://igoroliveiranunes.github.io/Tabela-zebra/"> Tabela zebra</a>
 
-!img
+![tabela zebra ilustra2 ](https://user-images.githubusercontent.com/93622964/179399891-24dc0267-cb94-46bc-99fd-4f1e569fbb85.png)
+
 
 # Sobre
 <h3>O Projeto de tabela,<br>utilizando Html e Css.</h3>

@@ -4,7 +4,7 @@
 <br><br>
 o Homepage:  <a href="https://igoroliveiranunes.github.io/Tabela-zebra/"> Tabela zebra</a>
 
-![tabela zebra ilustra2 ](https://user-images.githubusercontent.com/93622964/179399891-24dc0267-cb94-46bc-99fd-4f1e569fbb85.png)
+![tabela-zebra-ilustr3](https://user-images.githubusercontent.com/93622964/179401269-fe3dd8f7-5614-4bbc-8adc-8a2eaca8e3cb.png)
 
 
 # Sobre
